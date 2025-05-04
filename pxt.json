@@ -1,5 +1,6 @@
 {
     "name": "learning microbit with js",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
